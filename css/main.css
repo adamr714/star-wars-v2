@@ -1,0 +1,42 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12pt;
+}
+
+h1 {
+  font-size: 21pt;
+  margin-top: 10px;
+}
+
+h2 {
+  font-size: 12pt;
+  font-weight: normal;
+}
+
+h3 {
+  padding-left: 1em;
+}
+
+p {
+  padding-left: 1em;
+}
+
+header {
+  background-color: #EEBB44;
+  height: 6em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+ }
+
+.box {
+  /* height: 200px; */
+  margin-top: 1em;
+  margin-right: 1em;
+  border: 1px solid #ddd;
+  padding: 0;
+  margin-left: 0px;
+}
+
